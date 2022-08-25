@@ -1,0 +1,86 @@
+* {
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	list-style:none;
+	text-decoration: none;
+}
+body{
+	background: #fff ;
+	background-image: url(repa.png) ;
+ }
+ .head_{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+ 	height: 40px;
+ 	width: 50%;
+ 	display: inline-block ;
+ 	position: sticky;
+ 	color: #fff;
+ 	opacity: ;
+
+
+ }
+.button_logo {
+ 	position: sticky;
+ 	height: 10%;
+ 	width: 10%;
+ 	margin: 40px;
+ bottom: 100px;
+ border: 1px solid #D1F2EB;
+ border-radius: 50%;
+ }
+.button_logo img {
+ 	object-fit: contain;
+ 	border: 1px solid #D1F2EB;
+ 	border-radius: 50%;
+ 	position: sticky;
+ }
+ .button_logo img:hover {
+ 	padding: 20px;
+ 	transition: all 1s;
+ 	cursor: pointer;
+ }
+.ol_nav {
+	display: inline-flex;
+}
+.div_body{
+	height: 75px;
+	width: 300px;
+	font-weight: 1000;
+	display: inline-block;
+	font-size: 1.5em;
+	position: absolute;
+	margin: 10px;
+	
+
+}
+
+.a_nav {
+margin-top: 50px;
+margin-left: 150px;
+font-weight: 900 ;
+color: #000;
+}
+.li_nav{
+	margin-top: 9px;
+	margin-bottom: 10px;
+}
+.h1_1
+{ margin-left: 20%;
+	display: inline;
+	color: #000;
+	opacity: 0.6;
+	position: absolute;
+	top: 150px;
+}
+.div_1 {
+	margin-left: 30%;
+	margin-top: 0%;
+	;
+}
+.div_1 video {
+	height: 400px;
+	width: 700px;
+
+}
